@@ -1,0 +1,55 @@
+# ninja log v6
+2	487	7997149219366063	task4_autogen/timestamp	4ba30b451935c08e
+2	487	7997149219366063	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+2	487	7997149219366063	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+2	487	7997149219366063	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+493	3373	7997149219915391	CMakeFiles/task4.dir/main.cpp.obj	7aecbe058b8de55c
+491	3426	7997149219885364	CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.obj	dca119c8483ef696
+495	3719	7997149219935385	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+3719	3986	7997149252172023	task4.exe	f5a185a2251939ac
+9	684	7997643153542548	task4_autogen/timestamp	4ba30b451935c08e
+9	684	7997643153542548	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+9	684	7997643153542548	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+9	684	7997643153542548	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+685	4075	7997643154231400	CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.obj	dca119c8483ef696
+705	4076	7997643154304601	CMakeFiles/task4.dir/main.cpp.obj	7aecbe058b8de55c
+6	422	7997646878442616	task4_autogen/timestamp	4ba30b451935c08e
+6	422	7997646878442616	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	422	7997646878442616	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	422	7997646878442616	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+425	3164	7997646878845988	CMakeFiles/task4.dir/main.cpp.obj	7aecbe058b8de55c
+422	3182	7997646878825927	CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.obj	dca119c8483ef696
+427	3517	7997646878868284	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+3517	4637	7997646909718041	task4.exe	f5a185a2251939ac
+6	420	7997651665806417	task4_autogen/timestamp	4ba30b451935c08e
+6	420	7997651665806417	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	420	7997651665806417	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	420	7997651665806417	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+423	3108	7997651666320986	CMakeFiles/task4.dir/main.cpp.obj	7aecbe058b8de55c
+420	3245	7997651666300762	CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.obj	dca119c8483ef696
+6	433	7997652295868687	task4_autogen/timestamp	4ba30b451935c08e
+6	433	7997652295868687	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	433	7997652295868687	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	433	7997652295868687	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+436	3041	7997652296270592	CMakeFiles/task4.dir/main.cpp.obj	7aecbe058b8de55c
+433	3145	7997652296252246	CMakeFiles/task4.dir/task4_autogen/mocs_compilation.cpp.obj	dca119c8483ef696
+438	3526	7997652296300766	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+3527	3792	7997652327072929	task4.exe	f5a185a2251939ac
+6	77	7997654895276737	task4_autogen/timestamp	4ba30b451935c08e
+6	77	7997654895276737	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	77	7997654895276737	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	77	7997654895276737	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+78	2616	7997654896004021	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+2616	2884	7997654921360688	task4.exe	f5a185a2251939ac
+6	101	7997674478418337	task4_autogen/timestamp	4ba30b451935c08e
+6	101	7997674478418337	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	101	7997674478418337	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	101	7997674478418337	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+102	2773	7997674479386887	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+2773	3057	7997674506096125	task4.exe	f5a185a2251939ac
+6	82	7997733233782565	task4_autogen/timestamp	4ba30b451935c08e
+6	82	7997733233782565	task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+6	82	7997733233782565	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/timestamp	4ba30b451935c08e
+6	82	7997733233782565	D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/task4_autogen/mocs_compilation.cpp	4ba30b451935c08e
+83	2739	7997733234656678	CMakeFiles/task4.dir/mainwindow.cpp.obj	75308d7a891db6d0
+2740	3014	7997733261111429	task4.exe	f5a185a2251939ac
