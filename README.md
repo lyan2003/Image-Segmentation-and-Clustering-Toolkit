@@ -82,9 +82,13 @@ $$J = \sum_{i=1}^{k} \sum_{x \in S_i} \|x - \mu_i\|^2$$
 
 * **K-Means & Agglomerative Feature Groupings:**
 <img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/aed28f94-d299-4c8a-964e-68d21300bd7b" />
+<img width="1377" height="913" alt="Screenshot 2026-06-10 071822" src="https://github.com/user-attachments/assets/13bf70fd-5f51-4912-b85e-aae9557da3ea" />
+
 
 * **Region Growing & Mean Shift Density Maps:**
 <img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/efba5884-a455-453d-b170-28972f79669d" />
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/a2ce954f-f299-41d1-8af1-927b09a42a55" />
+
 
 
 ---
