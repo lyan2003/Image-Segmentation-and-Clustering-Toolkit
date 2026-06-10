@@ -1,4 +1,3 @@
-حاضر يا ليان، كتبتلك ملف الـ `README.md` للمشروع الرابع (Thresholding & Segmentation) بنفس الصياغة الأكاديمية والهندسة الاحترافية (Advanced Technical Style) اللي بعتيها، وبنفس التقسيمات والمعادلات الرياضية وهيكل الـ Pipeline والـ Directory Tree الخاص بملفات مشروعكم الحالي:
 # Image Thresholding & Unsupervised Segmentation Studio
 
 A cross-platform, high-performance C++ desktop application engineered using the Qt Framework and OpenCV core matrix representations. This toolkit implements modular analytical frameworks for intensity-based image thresholding and multi-class unsupervised segmentation, featuring global optimization models, multi-modal spectral histogram decomposition, adaptive local integral filtering, and advanced feature-space clustering algorithms.
