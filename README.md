@@ -71,16 +71,21 @@ $$J = \sum_{i=1}^{k} \sum_{x \in S_i} \|x - \mu_i\|^2$$
 ### 1. Grayscale Global & Local Thresholding
 
 * **Optimal & Otsu Binary Extractions:**
-`[Placeholder for Binary Threshold Outputs]`
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/27b750eb-23f7-4706-9f1a-c0ef48d40634" />
+
 * **Multi-Modal Spectral & Local Integral Maps:**
-`[Placeholder for Multi-level & Adaptive Threshold Renders]`
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/9540181d-c996-49ef-8306-f41d5efce9e1" />
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/5c74fb72-b6e3-4345-8774-6cd6d7c17f2d" />
+
 
 ### 2. Unsupervised Color Segmentation
 
 * **K-Means & Agglomerative Feature Groupings:**
-`[Placeholder for K-Means and Hierarchical Clustering Comparison]`
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/aed28f94-d299-4c8a-964e-68d21300bd7b" />
+
 * **Region Growing & Mean Shift Density Maps:**
-`[Placeholder for Regional Propagation and Non-Parametric Shifts]`
+<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/efba5884-a455-453d-b170-28972f79669d" />
+
 
 ---
 
