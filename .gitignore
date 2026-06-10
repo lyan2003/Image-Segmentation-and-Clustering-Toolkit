@@ -1,1 +1,0 @@
--e "build/\n.qtcreator/\n*.user\n*.o\n*.obj\n.qtc_clangd/" 
