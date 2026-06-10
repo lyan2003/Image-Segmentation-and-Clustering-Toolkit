@@ -9,3 +9,5 @@ cmake-build*/
 *.o
 *.obj
 Makefile
+.qtcreator/
+build/

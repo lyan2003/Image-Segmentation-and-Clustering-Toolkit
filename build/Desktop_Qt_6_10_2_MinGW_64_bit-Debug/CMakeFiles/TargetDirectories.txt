@@ -1,9 +1,0 @@
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/task4.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/task4_autogen_timestamp_deps.dir
-D:/Lyan/3rd year/2nd term/CV/task4/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/task4_autogen.dir
