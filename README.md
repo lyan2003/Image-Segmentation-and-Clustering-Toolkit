@@ -1,5 +1,8 @@
 # Image Thresholding & Unsupervised Segmentation Studio
 
+>  **Note:** This project was originally developed on **May 5, 2026**, as part of the university curriculum. It has been structurally refactored and migrated here to serve as a public portfolio showcase.
+
+
 A cross-platform, high-performance C++ desktop application engineered using the Qt Framework and OpenCV core matrix representations. This toolkit implements modular analytical frameworks for intensity-based image thresholding and multi-class unsupervised segmentation, featuring global optimization models, multi-modal spectral histogram decomposition, adaptive local integral filtering, and advanced feature-space clustering algorithms.
 
 ---
