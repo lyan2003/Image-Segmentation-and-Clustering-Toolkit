@@ -72,26 +72,48 @@ $$J = \sum_{i=1}^{k} \sum_{x \in S_i} \|x - \mu_i\|^2$$
 ## Application Output Gallery
 
 ### 1. Grayscale Global & Local Thresholding
-
-* **Optimal & Otsu Binary Extractions:**
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/27b750eb-23f7-4706-9f1a-c0ef48d40634" />
-
-* **Multi-Modal Spectral & Local Integral Maps:**
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/9540181d-c996-49ef-8306-f41d5efce9e1" />
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/5c74fb72-b6e3-4345-8774-6cd6d7c17f2d" />
-
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Optimal & Otsu Binary Extractions</b></p>
+      <img src="https://github.com/user-attachments/assets/27b750eb-23f7-4706-9f1a-c0ef48d40634" alt="Optimal & Otsu Binary Extractions" width="100%" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Multi-Modal Spectral Maps</b></p>
+      <img src="https://github.com/user-attachments/assets/9540181d-c996-49ef-8306-f41d5efce9e1" alt="Multi-Modal Spectral Maps" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Local Integral Maps</b></p>
+      <img src="https://github.com/user-attachments/assets/5c74fb72-b6e3-4345-8774-6cd6d7c17f2d" alt="Local Integral Maps" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 2. Unsupervised Color Segmentation
-
-* **K-Means & Agglomerative Feature Groupings:**
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/aed28f94-d299-4c8a-964e-68d21300bd7b" />
-<img width="1377" height="913" alt="Screenshot 2026-06-10 071822" src="https://github.com/user-attachments/assets/13bf70fd-5f51-4912-b85e-aae9557da3ea" />
-
-
-* **Region Growing & Mean Shift Density Maps:**
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/efba5884-a455-453d-b170-28972f79669d" />
-<img width="1377" height="913" alt="image" src="https://github.com/user-attachments/assets/a2ce954f-f299-41d1-8af1-927b09a42a55" />
-
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>K-Means Feature Grouping</b></p>
+      <img src="https://github.com/user-attachments/assets/aed28f94-d299-4c8a-964e-68d21300bd7b" alt="K-Means Feature Grouping" width="100%" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Agglomerative Clustering Matrix</b></p>
+      <img src="https://github.com/user-attachments/assets/13bf70fd-5f51-4912-b85e-aae9557da3ea" alt="Agglomerative Feature Groupings" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>Region Growing Segmentation</b></p>
+      <img src="https://github.com/user-attachments/assets/efba5884-a455-453d-b170-28972f79669d" alt="Region Growing Maps" width="100%" />
+    </td>
+    <td width="50%">
+      <p align="center"><b>Mean Shift Density Maps</b></p>
+      <img src="https://github.com/user-attachments/assets/a2ce954f-f299-41d1-8af1-927b09a42a55" alt="Mean Shift Density Maps" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ---
